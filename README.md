@@ -7,4 +7,4 @@
 ### Run the Script: Type the following command to execute the script:
 . env.sh
 
-## Reboot System: After the installation is complete, reboot your system for changes to take effect.
+#### Reboot System: After the installation is complete, reboot your system for changes to take effect.
